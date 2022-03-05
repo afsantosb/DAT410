@@ -1,0 +1,12 @@
+Activity,Value,Origin,Value,Destination,Value,Departure_date,Value,Arrival_date,Value,Departure_intention,Value,Arrival_intention,Value,Traveller,Value
+Transport,5,from,4,to,2,monday,3,monday,3,morning,3,morning,3,name,5
+Travel,5,travel,1,travel,1,tuesday,3,tuesday,3,noon,3,noon,3,i,1
+Booking,5,Gothenburg,2,towards,3,wednesday,3,wednesday,3,afternoon,3,afternoon,3,am,3
+Stay,5,Helsingborg,2,Gothenburg,2,thursday,3,thursday,3,evening,3,evening,3,called,5
+Plan,5,Lund,2,Helsingborg,2,friday,3,friday,3,night,3,night,3,,
+Activity,5,Malmö,2,Lund,2,saturday,3,saturday,3,midnight,3,midnight,3,,
+,,Örebro,2,Malmö,2,sunday,3,sunday,3,overnight,3,overnight,3,,
+,,Stockholm,2,Örebro,2,on,3,on,3,at,2,at,2,,
+,,Uppsala,2,Stockholm,2,,,,,start,4,end,4,,
+,,Västerås,2,Uppsala,2,,,,,begin,4,finish,4,,
+,,,,Västerås,2,,,,,,,,,,

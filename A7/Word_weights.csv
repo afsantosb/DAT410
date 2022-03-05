@@ -1,10 +1,4 @@
 ﻿Feature,Activity,Value
-Activity,Transport,5
-Activity,Travel,5
-Activity,Booking,5
-Activity,Stay,5
-Activity,Plan,5
-Activity,Activity,5
 Origin,from,4
 Origin,travel,1
 Origin,Gothenburg,2

@@ -40,6 +40,7 @@ Arrival date,saturday,3
 Arrival date,sunday,3
 Arrival date,on,3
 Arrival date,return,4
+Arrival date,back,4
 Arrival date,arrival,6
 Arrival date,arrive,6
 Departure intention,morning,3
@@ -60,6 +61,8 @@ Arrival intention,night,3
 Arrival intention,midnight,3
 Arrival intention,overnight,3
 Arrival intention,at,2
+Arrival intention,return,4
+Arrival intention,back,4
 Arrival intention,end,4
 Arrival intention,finish,4
 Traveller,name,5

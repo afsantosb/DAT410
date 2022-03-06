@@ -7,20 +7,20 @@ Destination,Gothenburg
 Destination,Lund
 Destination,Stockholm
 Destination,Uppsala
-Departure date,monday
-Departure date,tuesday
-Departure date,wednesday
-Departure date,thursday
-Departure date,friday
-Departure date,saturday
-Departure date,sunday
-Arrival date,monday
-Arrival date,tuesday
-Arrival date,wednesday
-Arrival date,thursday
-Arrival date,friday
-Arrival date,saturday
-Arrival date,sunday
+Departure_date,monday
+Departure_date,tuesday
+Departure_date,wednesday
+Departure_date,thursday
+Departure_date,friday
+Departure_date,saturday
+Departure_date,sunday
+Arrival_date,monday
+Arrival_date,tuesday
+Arrival_date,wednesday
+Arrival_date,thursday
+Arrival_date,friday
+Arrival_date,saturday
+Arrival_date,sunday
 Departure_intention,morning
 Departure_intention,noon
 Departure_intention,afternoon

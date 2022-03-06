@@ -1,4 +1,4 @@
-﻿Departure date,Departure intention,Arrival date,Arrival intention,Bus_ID,Origin,Destination
+﻿Departure_date,Departure_intention,Arrival_date,Arrival _intention,Bus_ID,Origin,Destination
 07/03/2022,07:00,07/03/2022,11:00,FAF_001,Gothenburg,Lund
 07/03/2022,11:00,07/03/2022,15:00,FAF_002,Gothenburg,Lund
 07/03/2022,13:00,07/03/2022,17:00,FAF_003,Gothenburg,Lund

@@ -1,20 +1,12 @@
 ﻿Feature,Camps
 Origin,Gothenburg
-Origin,Helsingborg
 Origin,Lund
-Origin,Malmö
-Origin,Örebro
 Origin,Stockholm
 Origin,Uppsala
-Origin,Västerås
 Destination,Gothenburg
-Destination,Helsingborg
 Destination,Lund
-Destination,Malmö
-Destination,Örebro
 Destination,Stockholm
 Destination,Uppsala
-Destination,Västerås
 Departure date,monday
 Departure date,tuesday
 Departure date,wednesday
@@ -29,65 +21,65 @@ Arrival date,thursday
 Arrival date,friday
 Arrival date,saturday
 Arrival date,sunday
-Departure intention,morning
-Departure intention,noon
-Departure intention,afternoon
-Departure intention,evening
-Departure intention,night
-Departure intention,midnight
-Departure intention,overnight
-Departure intention,1
-Departure intention,2
-Departure intention,3
-Departure intention,4
-Departure intention,5
-Departure intention,6
-Departure intention,7
-Departure intention,8
-Departure intention,9
-Departure intention,10
-Departure intention,11
-Departure intention,12
-Departure intention,13
-Departure intention,14
-Departure intention,15
-Departure intention,16
-Departure intention,17
-Departure intention,18
-Departure intention,19
-Departure intention,20
-Departure intention,21
-Departure intention,22
-Departure intention,23
-Departure intention,24
-Arrival intention,morning
-Arrival intention,noon
-Arrival intention,afternoon
-Arrival intention,evening
-Arrival intention,night
-Arrival intention,midnight
-Arrival intention,overnight
-Arrival intention,1
-Arrival intention,2
-Arrival intention,3
-Arrival intention,4
-Arrival intention,5
-Arrival intention,6
-Arrival intention,7
-Arrival intention,8
-Arrival intention,9
-Arrival intention,10
-Arrival intention,11
-Arrival intention,12
-Arrival intention,13
-Arrival intention,14
-Arrival intention,15
-Arrival intention,16
-Arrival intention,17
-Arrival intention,18
-Arrival intention,19
-Arrival intention,20
-Arrival intention,21
-Arrival intention,22
-Arrival intention,23
-Arrival intention,24
+Departure_intention,morning
+Departure_intention,noon
+Departure_intention,afternoon
+Departure_intention,evening
+Departure_intention,night
+Departure_intention,midnight
+Departure_intention,overnight
+Departure_intention,1
+Departure_intention,2
+Departure_intention,3
+Departure_intention,4
+Departure_intention,5
+Departure_intention,6
+Departure_intention,7
+Departure_intention,8
+Departure_intention,9
+Departure_intention,10
+Departure_intention,11
+Departure_intention,12
+Departure_intention,13
+Departure_intention,14
+Departure_intention,15
+Departure_intention,16
+Departure_intention,17
+Departure_intention,18
+Departure_intention,19
+Departure_intention,20
+Departure_intention,21
+Departure_intention,22
+Departure_intention,23
+Departure_intention,24
+Arrival_intention,morning
+Arrival_intention,noon
+Arrival_intention,afternoon
+Arrival_intention,evening
+Arrival_intention,night
+Arrival_intention,midnight
+Arrival_intention,overnight
+Arrival_intention,1
+Arrival_intention,2
+Arrival_intention,3
+Arrival_intention,4
+Arrival_intention,5
+Arrival_intention,6
+Arrival_intention,7
+Arrival_intention,8
+Arrival_intention,9
+Arrival_intention,10
+Arrival_intention,11
+Arrival_intention,12
+Arrival_intention,13
+Arrival_intention,14
+Arrival_intention,15
+Arrival_intention,16
+Arrival_intention,17
+Arrival_intention,18
+Arrival_intention,19
+Arrival_intention,20
+Arrival_intention,21
+Arrival_intention,22
+Arrival_intention,23
+Arrival_intention,24

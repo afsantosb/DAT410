@@ -2,69 +2,61 @@
 Origin,from,4
 Origin,travel,1
 Origin,Gothenburg,2
-Origin,Helsingborg,2
 Origin,Lund,2
-Origin,Malmö,2
-Origin,Örebro,2
 Origin,Stockholm,2
 Origin,Uppsala,2
-Origin,Västerås,2
 Destination,to,2
 Destination,travel,1
 Destination,towards,3
 Destination,Gothenburg,2
-Destination,Helsingborg,2
 Destination,Lund,2
-Destination,Malmö,2
-Destination,Örebro,2
 Destination,Stockholm,2
 Destination,Uppsala,2
-Destination,Västerås,2
-Departure date,monday,3
-Departure date,tuesday,3
-Departure date,wednesday,3
-Departure date,thursday,3
-Departure date,friday,3
-Departure date,saturday,3
-Departure date,sunday,3
-Departure date,on,3
-Departure date,go,4
-Departure date,departure,6
-Departure date,depart,6
-Arrival date,monday,3
-Arrival date,tuesday,3
-Arrival date,wednesday,3
-Arrival date,thursday,3
-Arrival date,friday,3
-Arrival date,saturday,3
-Arrival date,sunday,3
-Arrival date,on,3
-Arrival date,return,4
-Arrival date,back,4
-Arrival date,arrival,6
-Arrival date,arrive,6
-Departure intention,morning,3
-Departure intention,noon,3
-Departure intention,afternoon,3
-Departure intention,evening,3
-Departure intention,night,3
-Departure intention,midnight,3
-Departure intention,overnight,3
-Departure intention,at,2
-Departure intention,start,4
-Departure intention,begin,4
-Arrival intention,morning,3
-Arrival intention,noon,3
-Arrival intention,afternoon,3
-Arrival intention,evening,3
-Arrival intention,night,3
-Arrival intention,midnight,3
-Arrival intention,overnight,3
-Arrival intention,at,2
-Arrival intention,return,4
-Arrival intention,back,4
-Arrival intention,end,4
-Arrival intention,finish,4
+Departure_date,monday,3
+Departure_date,tuesday,3
+Departure_date,wednesday,3
+Departure_date,thursday,3
+Departure_date,friday,3
+Departure_date,saturday,3
+Departure_date,sunday,3
+Departure_date,on,3
+Departure_date,go,4
+Departure_date,departure,6
+Departure_date,depart,6
+Arrival_date,monday,3
+Arrival_date,tuesday,3
+Arrival_date,wednesday,3
+Arrival_date,thursday,3
+Arrival_date,friday,3
+Arrival_date,saturday,3
+Arrival_date,sunday,3
+Arrival_date,on,3
+Arrival_date,return,4
+Arrival_date,back,4
+Arrival_date,arrival,6
+Arrival_date,arrive,6
+Departure_intention,morning,3
+Departure_intention,noon,3
+Departure_intention,afternoon,3
+Departure_intention,evening,3
+Departure_intention,night,3
+Departure_intention,midnight,3
+Departure_intention,overnight,3
+Departure_intention,at,2
+Departure_intention,start,4
+Departure_intention,begin,4
+Arrival_intention,morning,3
+Arrival_intention,noon,3
+Arrival_intention,afternoon,3
+Arrival_intention,evening,3
+Arrival_intention,night,3
+Arrival_intention,midnight,3
+Arrival_intention,overnight,3
+Arrival_intention,at,2
+Arrival_intention,return,4
+Arrival_intention,back,4
+Arrival_intention,end,4
+Arrival_intention,finish,4
 Traveller,name,5
 Traveller,i,1
 Traveller,am,3

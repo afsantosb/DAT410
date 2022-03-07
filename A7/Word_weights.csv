@@ -5,6 +5,10 @@ Origin,Gothenburg,7
 Origin,Lund,7
 Origin,Stockholm,7
 Origin,Uppsala,7
+Origin,gothenburg,7
+Origin,lund,7
+Origin,stockholm,7
+Origin,uppsala,7
 Destination,to,2
 Destination,travel,1
 Destination,towards,3
@@ -12,6 +16,10 @@ Destination,Gothenburg,7
 Destination,Lund,7
 Destination,Stockholm,7
 Destination,Uppsala,7
+Destination,gothenburg,7
+Destination,lund,7
+Destination,stockholm,7
+Destination,uppsala,7
 Departure_date,monday,3
 Departure_date,tuesday,3
 Departure_date,wednesday,3

@@ -14,6 +14,9 @@ Departure_date,thursday
 Departure_date,friday
 Departure_date,saturday
 Departure_date,sunday
+Departure_date,07/03/2022
+Departure_date,08/03/2022
+Departure_date,09/03/2022
 Arrival_date,monday
 Arrival_date,tuesday
 Arrival_date,wednesday
@@ -21,6 +24,9 @@ Arrival_date,thursday
 Arrival_date,friday
 Arrival_date,saturday
 Arrival_date,sunday
+Departure_date,07/03/2022
+Departure_date,08/03/2022
+Departure_date,09/03/2022
 Departure_intention,morning
 Departure_intention,noon
 Departure_intention,afternoon
